@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2025 Alliander N.V.
-
-SPDX-License-Identifier: CC-BY-4.0
--->
-
 FULL NAME: Creative Commons Attribution 4.0 International
 SHORT IDENTIFIER: CC-BY-4.0
 
