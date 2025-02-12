@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Alliander N.V.
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Contact and Governance
 ## Governance
 This repository is meant to be used solely for sharing Alliander's contributions to the field of applied quantum technologies research. Therefore, the repository is completely maintained by Team RCDT (Research Center for Digital Technologies) at Alliander. 
