@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Alliander N.V.
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Quantum for the Energy Transition
 Welcome! This is the github page of Alliander where we present all of our quantum technology activities and applied research that have been made public. 
 
