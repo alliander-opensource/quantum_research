@@ -18,7 +18,7 @@ Welcome! This is the github page of Alliander where we present all of our quantu
 The challenges that network companies face in the energy transition are enormous. To overcome these challenges, innovation is key. The promises that quantum technologies hold seem limitless. As we learn more and more about about the application and actual limits of these technologies, we may find all sorts of solutions that are beneficial to network companies in the energy sector, distribution grid operators in particular. For example: Quantum Computing algorithms may help us perform quicker and better calculations, Quantum Communication may improve our telecommunication and Quantum Sensing may offer us a whole new range of new sensing solutions which will speed-up our fieldwork. By performing research on the applications of quantum technologies we aim to find these solutions to create value now and in the future.
 
 ## Contact and governance
-Please read [CONTACT_AND_GOVERANCE.md](CONTACT_AND_GOVERNANCE.md) for how to connect and get into contact with the Quantum for the Energy Transition team at Alliander.
+Please read [GOVERANCE.md](GOVERNANCE.md) for how to connect and get into contact with the Quantum for the Energy Transition team at Alliander.
 
 ## License
 Please read [LICENSE.md](LICENSE.md) for the license details.
