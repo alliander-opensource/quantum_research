@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2025 Alliander N.V.
+SPDX-FileCopyrightText: Contributors to the Quantum Research project
 
 SPDX-License-Identifier: CC-BY-4.0
 -->
