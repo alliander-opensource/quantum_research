@@ -9,7 +9,7 @@ Welcome! This is the github page of Alliander where we present all of our quantu
 
 ## Alliander (contributions to) publications on quantum activities
 - [Exploratory Quantum Technology Assessment](https://begeleidingsethiek.nl/cases/alliander-quantumcomputing-bij-n-1-principe/), _in collaboration with Centre for Quantum and Society and ECP (2022)._
-- Alliander contribution to the [Quantum Guide to Commercial Acceleration: the Energy Industry](https://www.infinityqd.nl/resources/quantum-guide-to-commercial-acceleration-the-energy-industry), _by Infinity QD (2025).  _
+- Alliander contribution to the [Quantum Guide to Commercial Acceleration: the Energy Industry](https://www.infinityqd.nl/resources/quantum-guide-to-commercial-acceleration-the-energy-industry), _by Infinity QD (2025)._
 - (To be published) Repository on N-1 calculations, _in collaboration with Quantum Application Lab_
 - Sparse matrix reordering with Quantum Computing for power grid calculations, _in collaboration with Quantum Application Lab_
   - [Repository QReorder (on Quantum Application Lab GitHub)](https://github.com/quantumapplicationlab/qreorder)
