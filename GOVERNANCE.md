@@ -1,16 +1,37 @@
 <!--
-SPDX-FileCopyrightText: 2025 Alliander N.V.
+SPDX-FileCopyrightText: Contributors to the Quantum Research project
 
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-# Contact and Governance
-## Governance
-This repository is meant to be used solely for sharing Alliander's contributions to the field of applied quantum technologies research. Therefore, the repository is completely maintained by Team RCDT (Research Center for Digital Technologies) at Alliander. 
+# Project Governance
 
-## Contact
-In our projects we often collaborate, so feel free to get in touch! You can send a message to the maintainers of this repository. The current maintainers are Nikki Jaspers (Team RCDT) and Jelte Zwetsloot (Team RCDT).
+The basic principle is that decisions are based on consensus. 
+If this decision-making process takes too long or a decision is required, 
+the maintainers have the authority to make a decision.
 
-You can find more about Alliander at [alliander.com](https://www.alliander.com/en/), <br>
-read more about Alliander's open research [here](https://www.alliander.com/nl/alliander-en-open-research/) <br>
-and follow the research center on [LinkedIn](https://www.linkedin.com/showcase/alliander-research-center/)!
+## Maintainers
+This repository is meant to be used for sharing Alliander's contributions to the field of applied quantum technologies research. Therefore, the repository is completely maintained by Team RCDT (Research Center for Digital Technologies) at Alliander. 
+
+The maintainers of RCDT are responsible for maintaining parts of the code-base. Maintainers have the following responsibilities
+1. Coordinate development activity
+1. Make sure code/documentation reviews are being done
+1. Coordinate pull-requests
+1. Coordinate bug follow-ups
+1. Coordinate questions
+1. In case of long discussions or arguments, maintainers or other can request a community council decision.
+
+The current maintainers of this project are:
+1. Nikki Jaspers (Team RCDT)
+2. Jelte Zwetsloot (Team RCDT).
+
+Any community member or Contributor can ask a question or raise an issue to the maintainers by logging a GitHub issue.
+
+## Contributors
+
+Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the project.
+
+Anyone can become a contributor. 
+There is no expectation of commitment to the project, no specific skill requirements and no selection process. 
+To become a contributor, a community member simply has to perform one or more actions that are beneficial to the project.
+
