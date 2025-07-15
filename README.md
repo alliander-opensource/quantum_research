@@ -10,7 +10,9 @@ Welcome! This is the github page of Alliander where we present all of our quantu
 ## Alliander (contributions to) publications on quantum activities
 - [Exploratory Quantum Technology Assessment](https://begeleidingsethiek.nl/cases/alliander-quantumcomputing-bij-n-1-principe/), _in collaboration with Centre for Quantum and Society and ECP (2022)._
 - Alliander contribution to the [Quantum Guide to Commercial Acceleration: the Energy Industry](https://www.infinityqd.nl/resources/quantum-guide-to-commercial-acceleration-the-energy-industry), _by Infinity QD (2025)._
-- (To be published) Repository on N-1 calculations, _in collaboration with Quantum Application Lab_
+- N-1 calculations with quantum annealing and gate based approach, _in collaboration with Quantum Application Lab_
+  - [Neumann et al., Quantum algorithms for N-1 security in power grids (May 2024)](https://arxiv.org/html/2405.00434v1)
+  - [Repository N minus 1 (on TNO Quantum GitHub)](https://github.com/TNO-Quantum/problems.n_minus_one)
 - Sparse matrix reordering with Quantum Computing for power grid calculations, _in collaboration with Quantum Application Lab_
   - [Repository QReorder (on Quantum Application Lab GitHub)](https://github.com/quantumapplicationlab/qreorder)
   - [One-pager (on Quantum Application Lab website)](https://quantumapplicationlab.com/2025/04/07/qreorder/) 
