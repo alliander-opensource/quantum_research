@@ -12,6 +12,7 @@ Welcome! This is the github page of Alliander where we present all of our quantu
 - Sparse matrix reordering with Quantum Computing for power grid calculations, _in collaboration with Quantum Application Lab_
   - [Repository QReorder (on Quantum Application Lab GitHub)](https://github.com/quantumapplicationlab/qreorder)
   - [One-pager (on Quantum Application Lab website)](https://quantumapplicationlab.com/2025/04/07/qreorder/)
+  - Contact us for the full report on Sparse Matrix Reordering.
 - N-1 calculations with quantum annealing and gate based approach, _in collaboration with Quantum Application Lab_
   - [Neumann et al., Quantum algorithms for N-1 security in power grids (May 2024)](https://arxiv.org/html/2405.00434v1)
   - [Repository N minus 1 (on TNO Quantum GitHub)](https://github.com/TNO-Quantum/problems.n_minus_one)
