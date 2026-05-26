@@ -8,6 +8,8 @@ SPDX-License-Identifier: CC-BY-4.0
 Welcome! This is the github page of Alliander where we present all of our quantum technology activities and applied research that have been made public. 
 
 ## Alliander (contributions to) publications on quantum activities
+- Quantum resource estimation for minimising energy losses, _in collaboration with Capgemini Quantum Lab_, [Arxiv paper](https://arxiv.org/abs/2605.03467)
+- Quantum sensing with an NV magnetometer: "On cable selection and load detection", _in collaboration with TNO_ [Open-source publication](https://publications.tno.nl/publication/34645567/yrKANS3N/TNO-2026-R10008.pdf)
 - Alliander contribution to the [Quantum Guide to Commercial Acceleration: the Energy Industry](https://www.infinityqd.nl/resources/quantum-guide-to-commercial-acceleration-the-energy-industry), _by Infinity QD (2025)._
 - Sparse matrix reordering with Quantum Computing for power grid calculations, _in collaboration with Quantum Application Lab_
   - [Repository QReorder (on Quantum Application Lab GitHub)](https://github.com/quantumapplicationlab/qreorder)
